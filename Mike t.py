@@ -8,5 +8,5 @@ if ibiro <100:
 elif  ibiro <= 200: 
       print("inama : umusaruro wawe urashimishije ! tangira gushaka isoko ryokugurishamo") 
 else:
-     print ("ongera ygerageze")
+     print ("ujye wibanda kunamazabajyanama bubuhinzi")
 print("-" * 20)
